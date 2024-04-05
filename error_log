@@ -1,0 +1,472 @@
+[15-Jun-2018 09:25:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/onlinebhangarbaz/public_html/demo_bhangar/header.php on line 103
+[15-Jun-2018 09:44:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 18
+[15-Jun-2018 09:45:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 58
+[15-Jun-2018 09:46:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 58
+[15-Jun-2018 09:47:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 58
+[15-Jun-2018 09:48:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 58
+[15-Jun-2018 10:30:07 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 11
+[15-Jun-2018 10:31:06 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 17
+[15-Jun-2018 10:34:00 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 11
+[15-Jun-2018 10:34:29 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 11
+[15-Jun-2018 10:35:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 40
+[15-Jun-2018 10:37:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 17
+[15-Jun-2018 10:38:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 17
+[15-Jun-2018 10:41:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 17
+[15-Jun-2018 10:41:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 17
+[15-Jun-2018 10:41:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/onlinebhangarbaz/public_html/demo_bhangar/scrap_rate.php on line 17
+[25-Jun-2018 06:12:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:12:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:12:37 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:12:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:12:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:12:58 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:13:06 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:13:06 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:13:06 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:14:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:14:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:14:57 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:15:02 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:02 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:02 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:32 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:32 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:32 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:15:37 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:16:41 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:16:41 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:16:41 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:16:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:16:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:16:46 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:18:29 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:18:29 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:18:29 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:18:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:18:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:18:37 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:18 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:18 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:18 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:53 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:53 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:53 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:19:55 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:19:55 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:19:55 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:20:14 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:20:14 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:20:14 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:21:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:21:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:21:24 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:39 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:39 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:39 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:42 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:22:42 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:22:42 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:22:52 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:52 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:52 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:22:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:22:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:22:56 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:23:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:23:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:23:24 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:26:10 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:26:10 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:26:10 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:27:22 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:27:22 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:27:22 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:27:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:27:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:27:26 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:30:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:30:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:30:57 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:31:27 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:31:27 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:31:27 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:31:31 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:31:31 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:31:31 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:31:48 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:31:48 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:31:48 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:33:28 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:33:28 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:33:28 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:33:38 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:33:38 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:33:38 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:34:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:34:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:34:24 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:34:33 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:34:33 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:34:33 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:37:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:37:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:37:21 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 06:51:03 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:51:03 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 06:51:03 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:05:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:05:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:05:57 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:06:54 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:06:54 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:06:54 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:06:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:06:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:06:56 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:07:09 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:07:09 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:07:09 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:18 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:18 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:18 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:24 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:24 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:11:27 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:11:27 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:11:27 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:18:43 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:18:43 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:18:43 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:21:40 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:21:40 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:21:40 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:22:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:46 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:53 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:53 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:53 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:57 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:22:57 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:23:04 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:23:04 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:23:04 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:24:53 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:24:53 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:24:53 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:24:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:24:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:24:56 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:25:47 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:25:47 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:25:47 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:25:50 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:25:50 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:25:50 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:25:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:25:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:25:58 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:28:38 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:28:38 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:28:38 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:29:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:29:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:29:37 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:42 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:42 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:42 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:31:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:31:46 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:31:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:56 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:56 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 07:31:59 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:31:59 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 07:31:59 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:20:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:20:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:20:19 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:20:41 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:20:41 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:20:41 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:20:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:20:46 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:20:46 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:22:20 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:22:20 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:22:20 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:22:23 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:22:23 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:22:23 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:22:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:22:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:22:26 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:08 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:08 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:08 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:12 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:12 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:12 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:14 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:14 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:14 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:20 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:20 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:20 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:21 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:39:26 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:52:29 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:52:29 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:52:29 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:52:44 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:52:44 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:52:44 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:56:30 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:56:30 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:56:30 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:56:47 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:56:47 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:56:47 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:59:10 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:59:10 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:59:10 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 08:59:13 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:59:13 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:59:13 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:59:22 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:59:22 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 08:59:22 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:00:28 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:00:28 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:00:28 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:17:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:17:37 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:17:37 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:18:01 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:18:01 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:18:01 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:23:02 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:23:02 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:23:02 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:24:39 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:24:39 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:24:39 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:24:48 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:24:48 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:24:48 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:26:20 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:26:20 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:26:20 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:26:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:26:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:26:58 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:01 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:01 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:01 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:03 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:03 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:03 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:04 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:04 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:04 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:12 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:12 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:12 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:19 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:27 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:27 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:27 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:30 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:30 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:30 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:27:32 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:32 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:32 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:38 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:38 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:27:38 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:04 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:04 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:04 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:10 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:10 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:10 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:13 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:13 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:13 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:28:17 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:17 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:17 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:19 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:25 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:25 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:25 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:26 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:26 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:31 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:31 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:31 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:28:58 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:29:06 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:29:06 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:29:06 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:31:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:31:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:31:21 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:32:22 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:32:22 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:32:22 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:33:00 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:33:00 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:33:00 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:33:16 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:33:16 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:33:16 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:36:13 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:36:13 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:36:13 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:37:18 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:37:18 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:37:18 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:37:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:37:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:37:19 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:38:40 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:38:40 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:38:40 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:45:54 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:45:54 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:45:54 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:47:07 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:47:07 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:47:07 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:47:09 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:47:09 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:47:09 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:47:15 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:47:15 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:47:15 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 09:48:02 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:48:02 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 09:48:02 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignIn.php on line 48
+[25-Jun-2018 10:05:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 10:05:19 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[25-Jun-2018 10:05:19 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/onlinebhangarbaz/public_html/SignUp.php on line 42
+[28-Jun-2018 07:04:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_bhangar_bazar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:04:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_bhangar_bazar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:04:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_bhangar_bazar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:04:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_bhangar_bazar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:04:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_bhangar_bazar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:04:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_bhangar_bazar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:04:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:04:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:05:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:05:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:05:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:05:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:05:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:05:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:06:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:06:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:07:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:07:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:07:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:07:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:07:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:07:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:07:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:07:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:07:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:08:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:08:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:08:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:08:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:08:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:08:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:08:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:08:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:08:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:10:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:10:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:10:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:10:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:10:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:10:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:10:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:14:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:14:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:14:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:14:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:14:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:14:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:14:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'onlinebh_bhangar'@'localhost' to database 'onlinebh_demo_bhangar' in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:14:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:14:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:22:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'onlinebh_bhangar'@'localhost' (using password: YES) in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:22:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:22:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:24:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'onlinebh_bhangar'@'localhost' (using password: YES) in /home/onlinebhangarbaz/public_html/connection.php on line 2
+[28-Jun-2018 07:24:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
+[28-Jun-2018 07:24:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/onlinebhangarbaz/public_html/header.php on line 76
